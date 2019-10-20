@@ -1,9 +1,9 @@
 @font-face {
-  font-family: NanumBarunCatsi;
+  font-family: 'Nanum Barun Catsi';
   font-style: normal;
   font-weight: normal;
   src:
-    local('NanumBarunCatsi'),
+    local('Nanum Barun Catsi'),
     url(https://raw.githack.com/XCninety/Black-Highlighter-KR/master/NanumBarunGothic_E.woff) format('woff'), 
     url(https://raw.githack.com/XCninety/Black-Highlighter-KR/master/NanumBarunGothic_E.ttf) format('ttf');
 }
