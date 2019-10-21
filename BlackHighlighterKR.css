@@ -17,7 +17,7 @@ p,
 span,
 div,
 li {
-    font-family: , sans-serif;
+    font-family: var(--body-font), sans-serif;
 }
  
 .code *,
