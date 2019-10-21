@@ -1,18 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700|Nanum+Gothic+Coding&amp;subset=korean');
-@font-face {
-    font-family: 'Nanum';
-    src:
-        url('https://raw.githack.com/XCninety/Black-Highlighter-KR/master/NanumBarunGothic_E.woff') format('woff'),
-        url('https://raw.githack.com/XCninety/Black-Highlighter-KR/master/NanumBarunGothic_E.ttf')  format('truetype');
-}
+@import url('https://raw.githack.com/XCninety/Black-Highlighter-KR/master/NanumBarunCatsi.css');
 
 @supports(--css: variables) {
 
 :root {
     /* Typefaces */
-    --body-font: 'Open Sans', Nanum, monospace;
-    --header-font: 'Open Sans', Nanum, sans-serif;
-    --title-font: 'Open Sans', Nanum, monospace;
+    --body-font: 'Open Sans', 'NanumBarunCatsi', monospace;
+    --header-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
+    --title-font: 'Open Sans', 'NanumBarunCatsi', monospace;
     --mono-font: "Nanum Gothic Coding", monospace;
 
 }
