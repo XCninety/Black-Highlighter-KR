@@ -12,6 +12,6 @@
     font-style: normal;
     font-weight: 700;
     src:
-        url(../master/NanumBarunGothicBold_E.woff') format('woff'),
-        url(../master/NanumBarunGothicBold_E.ttf')  format('truetype');
+        url(../master/NanumBarunGothicBold_E.woff) format('woff'),
+        url(../master/NanumBarunGothicBold_E.ttf)  format('truetype');
 }
