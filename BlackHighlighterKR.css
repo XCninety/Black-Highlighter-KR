@@ -17,12 +17,12 @@ p,
 span,
 div,
 li {
-    font-family: var(--body-font), sans-serif;
+    font-family: , sans-serif;
 }
  
 .code *,
 pre * {
-    font-family: 'PT Mono', 'Nanum Gothic Coding', 'Andale Mono', 'Courier New', Courier, monospace;
+    font-family: var(--mono-font), 'Courier New', Courier, monospace;
 }
  
 h1,
