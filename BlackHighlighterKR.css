@@ -52,17 +52,14 @@ h6 {
  
 #header h1 a {
     content: var(--header-title);
-    content: "SCP 재단";
 }
  
 #header h1 a::before {
     content: var(--header-title);
-    content: "SCP 재단";
 }
  
 #header h2 span::before {
     content: var(--header-subtitle);
-    content: "확보, 격리, 보호";
 }
  
 @-moz-document url-prefix() {
