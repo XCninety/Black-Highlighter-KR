@@ -10,6 +10,10 @@
     --title-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
     --mono-font: "Nanum Gothic Coding", monospace;
 
+    /* header */
+    --header-title: "SCP 재단";
+    --header-subtitle: '확보, 격리, 보호';
+    
 }
 }
 
@@ -52,17 +56,14 @@ h6 {
 }
  
 #header h1 a {
-    content: "SCP 재단";
     content: var(--header-title);
 }
  
 #header h1 a::before {
-    content: "SCP 재단";
     content: var(--header-title);
 }
  
 #header h2 span::before {
-    content: '확보, 격리, 보호';
     content: var(--header-subtitle);
 }
  
