@@ -6,7 +6,7 @@
 :root {
     /* Typefaces */
     --body-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
-    --header-font: 'Poppins', 'NanumBarunCatsi', sans-serif;
+    --header-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
     --title-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
     --mono-font: "Nanum Gothic Coding", monospace;
 
