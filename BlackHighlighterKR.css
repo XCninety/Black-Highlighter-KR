@@ -9,6 +9,9 @@
     --header-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
     --title-font: 'Open Sans', 'NanumBarunCatsi', sans-serif;
     --mono-font: "Nanum Gothic Coding", monospace;
+    
+    --header-title: "SCP 재단";
+	--header-subtitle: "확보, 격리, 보호";
 
 }
 }
@@ -49,18 +52,6 @@ h6 {
  
 #header h2 span {
     font-family: var(--header-font), sans-serif !important;
-}
- 
-#header h1 a {
-    content: "SCP 재단";
-}
- 
-#header h1 a::before {
-    content: "SCP 재단";
-}
- 
-#header h2 span::before {
-    content: "확보, 격리, 보호";
 }
  
 @-moz-document url-prefix() {
