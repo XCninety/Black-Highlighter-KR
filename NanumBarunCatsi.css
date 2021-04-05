@@ -3,8 +3,8 @@
     font-style: normal;
     font-weight: 400;
     src:
-        url(../master/NanumBarunGothic_E.woff) format('woff'),
-        url(../master/NanumBarunGothic_E.ttf)  format('truetype');
+        url(../Black-Highlighter-KR/NanumBarunGothic_E.woff) format('woff'),
+        url(../Black-Highlighter-KR/NanumBarunGothic_E.ttf)  format('truetype');
 }
 
 @font-face {
@@ -12,6 +12,6 @@
     font-style: normal;
     font-weight: 700;
     src:
-        url(../master/NanumBarunGothicBold_E.woff) format('woff'),
-        url(../master/NanumBarunGothicBold_E.ttf)  format('truetype');
+        url(../Black-Highlighter-KR/NanumBarunGothicBold_E.woff) format('woff'),
+        url(../Black-Highlighter-KR/NanumBarunGothicBold_E.ttf)  format('truetype');
 }
